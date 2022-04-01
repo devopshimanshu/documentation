@@ -202,6 +202,10 @@ Deploy Spinnaker
 ```
 hal deploy apply
 ```
+Change current namespace to the spinnaker namespace
+```
+kubectl config set-context --current --namespace=spinnaker
+```
 Login into the cluster and edit services to have load balancer 
 ```
 kubectl patch service spin-deck -p '{"spec":{"type":"LoadBalancer"}}' -n spinnaker
