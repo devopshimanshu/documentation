@@ -1,5 +1,5 @@
 # Prometheus & Grafana Installation Steps
-This installtion is done by using helm package.
+This installtion is propogated by helm package.
 
 ## Step 1: Add Repo
 ```
