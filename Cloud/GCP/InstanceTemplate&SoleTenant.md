@@ -159,6 +159,24 @@ Sole-tenant lets you have exclusive access to  a sole-tenant node, which is a ph
 Use Sole-tenant nodes to keep your VMs physically seperated from VMs in other projects, or to group your VMs together on the same ost hardware.
 
 
+# Task for MIG
+- Resize Task
+    - Add or remove VMs
+    - Automatically resize a MIG
+    - Manually set the size of a MIG
+    - Disable creation etires mode during resize
+    - Create Instance with specific name in MIG
+    - Delete specific instance from a group
+    - Abandon instances from a group
+    - Delete the group
+- VMs Configuration Changes
+    - Change the instance template for the Group.
+    - Apply Configuration update to the VMs in a MIG
+        - Automatically apply configuration update to the VMs in a MIG
+        - Selectively apply configuration update to the specific VMs
+        - Understand the instanceTemplate and versions fields
+        - Recreate instance in a group
+        - Canary test a new instance template in a MIG
 
 
 
