@@ -97,7 +97,7 @@
 - [Cloud Domains](https://cloud.google.com/domains/docs)
 - [Cloud DNS](https://cloud.google.com/dns/docs)
 - [Cloud IDS](https://cloud.google.com/intrusion-detection-system/docs)
-- [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs)
+- [Cloud Load Balancing](https://cloud.google.com/load-balancing/docs): Load Balancer allows you to put your resources behind a single IP address that is externally accessable or internal to you VPC network.
 - [Cloud NAT](https://cloud.google.com/nat/docs)
 - [Hybrid Connectivity](https://cloud.google.com/hybrid-connectivity/docs)
 - [Network Connectivity Center](https://cloud.google.com/network-connectivity-center/docs)
